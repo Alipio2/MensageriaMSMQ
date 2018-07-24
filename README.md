@@ -1,0 +1,2 @@
+# MensageriaMSMQ
+Aplicação utilizando MSMQ
